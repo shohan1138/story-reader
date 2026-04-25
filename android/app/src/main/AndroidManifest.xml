@@ -8,8 +8,7 @@
 
     <application
         android:label="Story Reader"
-        android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:name="${applicationName}">
 
         <activity
             android:name=".MainActivity"
